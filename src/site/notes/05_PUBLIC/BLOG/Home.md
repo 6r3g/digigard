@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/05-public/blog/home/","tags":"gardenEntry"}
 ---
 
-[[05_PUBLIC/BLOG/Home\|Home]] - [[05_PUBLIC/BLOG/posts/Posts\|Posts]] - [[05_PUBLIC/BLOG/about/About\|About]]
+[[Home|`fas:Home` Home]] - [[05_PUBLIC/BLOG/posts/Posts\|Posts]] - [[05_PUBLIC/BLOG/about/About\|About]]
 
-# Homepage
+# `fas:Home` Homepage
 Première de couverture
 
 ## [[05_PUBLIC/BLOG/posts/Posts\|Posts]]

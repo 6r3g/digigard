@@ -7,3 +7,6 @@
 # Write Up
 
 dataview list all write up ...
+
+## RootMe10k
+[[05_PUBLIC/BLOG/writeup/rootme10k-applicativesaretheway\|rootme10k-applicativesaretheway]]

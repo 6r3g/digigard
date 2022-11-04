@@ -16,4 +16,20 @@ body {
     font-size: 20px;
     line-height: 1.5;
 }
+    pre[class*="language-"] {
+    color: var(--code-normal);
+    background: none;
+    overflow: scroll;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    word-break: normal;
+    font-family: var(--font-monospace);
+    text-align: left;
+    word-spacing: normal;
+    line-height: var(--line-height-normal);
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
 }

@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"writeup/rootme10k/applicativesaretheway","permalink":"/writeup/rootme10k/applicativesaretheway/"}
+{"dg-publish":true,"dg-permalink":"writeup/rootme10k/applicativesaretheway","permalink":"/writeup/rootme10k/applicativesaretheway/","dgPassFrontmatter":true}
 ---
 
 ---
----
 [[05_PUBLIC/BLOG/Home\|Home]] - [[05_PUBLIC/BLOG/posts/Posts\|Posts]] - [[05_PUBLIC/BLOG/writeup/_writeup\|WriteUp]] - [[05_PUBLIC/BLOG/cheatsheets/Cheatsheets\|Cheatsheets]] - [[05_PUBLIC/BLOG/about/About\|About]]
+
+---
 # rootme10k
 
 ## Applicatives are the way

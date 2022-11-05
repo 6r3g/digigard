@@ -11,5 +11,9 @@
 
 dataview list all write up ...
 
+## 404ctf
+### [[_INBOX/404 - lebraquage\|404 - lebraquage]]
+
+
 ## RootMe10k
-[[05_PUBLIC/BLOG/writeup/rootme10k-applicativesaretheway\|rootme10k-applicativesaretheway]]
+### [[05_PUBLIC/BLOG/writeup/rootme10k-applicativesaretheway\|rootme10k-applicativesaretheway]]

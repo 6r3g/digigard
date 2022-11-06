@@ -56,36 +56,3 @@ CODE : OpérationGorfou
 
 `' UNION SELECT 'Id',NULL,NULL,NULL' ORDER BY 1--`
 
-
-
-````ad-danger
-title: bash
-icon: terminal
-~~~shell
-➜  ~ tshark -nr applicatives_are_the_way.pcapng -T fields -e dns.qry.name -Y 'dns.qry.name contains ".bwlryq"' | uniq | cut -d. -f 1 | tee | base64 -d
-I lostMyPassw0rd...ButImSureThAtItIsNtS0FaR
-~~~
-````
-
-```ad-success
-title: sql
-icon: database
-~~~sql
-sql> id=' or '1'='1
-~~~
-```
-
-
-```ad-example
-title: Powershell
-icon: terminal
-~~~powershell
-PS C:\Users\x6r3g> Get-MobileDevice | ft UserDisplayName,DeviceId,DeviceAccessState -autosize
-
-UserDisplayName                                                  DeviceId                         DeviceAccessState
----------------                                                  --------                         -----------------
-PEUPLUXS Sylvie                                                  4C2C4C426DA4XXXXXXXXX40644D33C84 Quarantined
-AURELLE Antoine                                                  8546813A1149XXXXXXXXXD6ACBCF1467 Allowed
-AURELLE Antoine                                                  A92BA1F9A44CXXXXXXXXXXXX7B8CDFD3 Allowed
-~~~
-```

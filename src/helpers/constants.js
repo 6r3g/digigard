@@ -4,6 +4,5 @@ exports.ALL_NOTE_SETTINGS= [
     "dgShowBacklinks",
     "dgShowLocalGraph",
     "dgShowInlineTitle",
-    "dgShowFileTree",
-    "dgEnableSearch"
+    "dgShowFileTree"
 ];

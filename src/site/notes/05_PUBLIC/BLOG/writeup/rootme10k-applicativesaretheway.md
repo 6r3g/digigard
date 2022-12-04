@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"writeup/rootme10k/applicativesaretheway","permalink":"/writeup/rootme10k/applicativesaretheway/","dgPassFrontmatter":true}
 ---
 
+
 # rootme10k
 
 ## Applicatives are the way

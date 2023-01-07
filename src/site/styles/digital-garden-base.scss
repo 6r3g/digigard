@@ -37,9 +37,14 @@ body {
     padding: 10px;
 }
 
-div.translusion {
-    border-left: 4px solid gray;
-    padding-left: 10px;
+div.transclusion {
+    position: relative;
+    padding: 8px;
+    .markdown-embed-link {
+        z-index: 99;
+        display: block;
+        width: auto !important;
+    }
 }
 
 .admonition-title {
